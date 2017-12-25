@@ -1,0 +1,5 @@
+John
+Iron Man 3,Heroes Movies,False
+Imperium Kontratakuje,Sci-Fi,False
+Ostatni Mohikanin,Przygodowy,True
+Pingwiny z Madagaskaru,Animowany,True
