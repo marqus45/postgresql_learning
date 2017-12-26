@@ -7,4 +7,13 @@ git init - initialisation of the folder
 git status - status of the folder 
 git add - adding files to stage 
 git rm - removing files from stageing area before commit
-git commit  
+git commit - commiting changes to .git folder 
+
+Create git_hub account and repo, create ssh key 
+ssh-keygen | this generates ssh key in default directory.
+cat ~/.ssh/id_rsa.pub | displays rsa key to put in github keys, remmember to drop redundant CR and spaces 
+
+
+git push -u origin to master | this push your new repository to remote server
+
+git push | followig commands to commit changes.

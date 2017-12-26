@@ -41,5 +41,4 @@ class CursorFromConnectionFromPool:
             self.connection.commit()
         Database.put_connection(self.connection)
 
-# def connect():
-#     return psycopg2.connect(user='hp',password='winobranie1', database='py_dev_course', host='localhost')
+		
