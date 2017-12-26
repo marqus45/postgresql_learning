@@ -1,0 +1,10 @@
+git contains layers 
+
+file system  -> initialisation of git repository -> staging area -> commit to repository -> push to cloud 
+commands of git 
+
+git init - initialisation of the folder 
+git status - status of the folder 
+git add - adding files to stage 
+git rm - removing files from stageing area before commit
+git commit  
